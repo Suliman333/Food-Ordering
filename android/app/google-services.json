@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "515022531081",
+    "project_id": "foodordering-5f111",
+    "storage_bucket": "foodordering-5f111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515022531081:android:ad33b5b4f808c9f1a3a6d8",
+        "android_client_info": {
+          "package_name": "com.example.food_order_full"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515022531081-m8vn6f4733mknaq2pb2eflqu3n6dn547.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv407WIklcTKErxp5EDYSNILr0ZY6dddg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515022531081-m8vn6f4733mknaq2pb2eflqu3n6dn547.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515022531081-fhsj1bcksev7ifpm48g46100v24ovo93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodOrderFull"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515022531081:android:8957e2d10138082ea3a6d8",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515022531081-m8vn6f4733mknaq2pb2eflqu3n6dn547.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv407WIklcTKErxp5EDYSNILr0ZY6dddg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515022531081-m8vn6f4733mknaq2pb2eflqu3n6dn547.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515022531081-fhsj1bcksev7ifpm48g46100v24ovo93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodOrderFull"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
